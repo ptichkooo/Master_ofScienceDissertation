@@ -1,0 +1,61 @@
+NAME : ft53Preorder.4500.tour
+COMMENT : Length = 4500
+COMMENT : Found by LKH [Keld Helsgaun] Sun Apr 19 19:25:39 2020
+TYPE : TOUR
+DIMENSION : 53
+TOUR_SECTION
+1
+37
+36
+41
+22
+21
+25
+24
+23
+20
+19
+18
+17
+16
+38
+40
+39
+5
+3
+2
+9
+10
+8
+7
+6
+52
+49
+50
+53
+51
+30
+29
+26
+28
+27
+4
+14
+12
+11
+13
+15
+42
+48
+43
+47
+44
+46
+45
+35
+33
+34
+32
+31
+-1
+EOF

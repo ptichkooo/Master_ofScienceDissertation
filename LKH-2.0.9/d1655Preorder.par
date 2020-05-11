@@ -1,0 +1,6 @@
+PROBLEM_FILE = d1655Preorder.tsp
+OUTPUT_TOUR_FILE = d1655Preorder_result.txt
+MOVE_TYPE = 5
+PATCHING_C = 3
+PATCHING_A = 2
+RUNS = 10

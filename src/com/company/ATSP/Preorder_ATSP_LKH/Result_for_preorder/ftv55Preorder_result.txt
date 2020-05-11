@@ -1,0 +1,64 @@
+NAME : ftv55Preorder.1225.tour
+COMMENT : Length = 1225
+COMMENT : Found by LKH [Keld Helsgaun] Sun Apr 19 19:25:40 2020
+TYPE : TOUR
+DIMENSION : 56
+TOUR_SECTION
+1
+34
+3
+14
+36
+6
+7
+5
+8
+33
+9
+37
+10
+38
+12
+20
+21
+41
+19
+40
+39
+11
+52
+15
+13
+16
+17
+18
+53
+26
+25
+43
+22
+23
+42
+51
+24
+55
+28
+50
+46
+31
+47
+56
+35
+2
+4
+49
+32
+48
+29
+54
+44
+45
+30
+27
+-1
+EOF

@@ -1,0 +1,56 @@
+NAME : ftv47Preorder.1199.tour
+COMMENT : Length = 1199
+COMMENT : Found by LKH [Keld Helsgaun] Sun Apr 19 19:25:40 2020
+TYPE : TOUR
+DIMENSION : 48
+TOUR_SECTION
+1
+26
+2
+10
+34
+28
+3
+42
+44
+23
+41
+21
+39
+38
+19
+18
+13
+33
+8
+24
+35
+14
+47
+37
+15
+36
+16
+17
+46
+40
+20
+45
+22
+48
+27
+43
+29
+4
+25
+5
+30
+31
+32
+6
+7
+9
+12
+11
+-1
+EOF

@@ -1,0 +1,25 @@
+NAME : gr17Preorder.426.tour
+COMMENT : Length = 426
+COMMENT : Found by LKH [Keld Helsgaun] Fri May  1 16:20:59 2020
+TYPE : TOUR
+DIMENSION : 17
+TOUR_SECTION
+1
+7
+8
+6
+17
+14
+15
+3
+11
+5
+10
+2
+16
+12
+9
+4
+13
+-1
+EOF

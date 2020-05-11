@@ -1,0 +1,29 @@
+NAME : gr21Preorder.385.tour
+COMMENT : Length = 385
+COMMENT : Found by LKH [Keld Helsgaun] Fri Apr 24 13:48:13 2020
+TYPE : TOUR
+DIMENSION : 21
+TOUR_SECTION
+1
+4
+11
+20
+19
+17
+10
+18
+13
+14
+15
+21
+2
+3
+9
+5
+16
+6
+8
+7
+12
+-1
+EOF
